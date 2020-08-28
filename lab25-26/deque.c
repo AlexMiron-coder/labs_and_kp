@@ -5,40 +5,6 @@
 #include "deque.h"
 
 
-/*int *push_back(int add, int *deque, int count){
-    if(!deque[count]){
-        deque = (int *)realloc(deque, count*sizeof(int));
-    }
-    deque[count] = add;
-    return deque;
-}
-
-int *push_back(int add, int *deque, int *count){
-    if(!deque[*count]){
-        deque = (int *)realloc(deque, *count*sizeof(int));
-    }
-    deque[*count] = add;
-    return deque;
-}
-
-int *push_front(int add, int *deque, int count){
-    if(!deque[count]){
-        deque = (int *)realloc(deque, count*sizeof(int));
-    }
-    for(int i = count - 1; i > 0; i--) deque[i] = deque[i-1];
-    deque[0] = add;
-    return deque;
-}
-
-int *pop_back(int *deque, int count){
-    deque[count] = 0;
-    return deque;
-}
-
-int *pop_front(int *deque, int count){
-
-}*/
-
 int* push_back(int add, int *deque, int *size){
     *size += 1;
     int *tmp = NULL;
