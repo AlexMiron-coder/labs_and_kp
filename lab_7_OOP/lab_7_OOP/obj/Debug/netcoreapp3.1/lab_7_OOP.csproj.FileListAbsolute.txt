@@ -1,0 +1,13 @@
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\bin\Debug\netcoreapp3.1\lab_7_OOP.exe
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\bin\Debug\netcoreapp3.1\lab_7_OOP.deps.json
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\bin\Debug\netcoreapp3.1\lab_7_OOP.runtimeconfig.json
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\bin\Debug\netcoreapp3.1\lab_7_OOP.runtimeconfig.dev.json
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\bin\Debug\netcoreapp3.1\lab_7_OOP.dll
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\bin\Debug\netcoreapp3.1\lab_7_OOP.pdb
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\obj\Debug\netcoreapp3.1\lab_7_OOP.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\obj\Debug\netcoreapp3.1\lab_7_OOP.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\obj\Debug\netcoreapp3.1\lab_7_OOP.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\obj\Debug\netcoreapp3.1\lab_7_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\obj\Debug\netcoreapp3.1\lab_7_OOP.dll
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\obj\Debug\netcoreapp3.1\lab_7_OOP.pdb
+C:\Users\Алексей\source\repos\lab_7_OOP\lab_7_OOP\obj\Debug\netcoreapp3.1\lab_7_OOP.genruntimeconfig.cache
