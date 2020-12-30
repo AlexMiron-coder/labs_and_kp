@@ -1,0 +1,13 @@
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\bin\Debug\netcoreapp3.1\lab_5_OOP.exe
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\bin\Debug\netcoreapp3.1\lab_5_OOP.deps.json
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\bin\Debug\netcoreapp3.1\lab_5_OOP.runtimeconfig.json
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\bin\Debug\netcoreapp3.1\lab_5_OOP.runtimeconfig.dev.json
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\bin\Debug\netcoreapp3.1\lab_5_OOP.dll
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\bin\Debug\netcoreapp3.1\lab_5_OOP.pdb
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\obj\Debug\netcoreapp3.1\lab_5_OOP.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\obj\Debug\netcoreapp3.1\lab_5_OOP.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\obj\Debug\netcoreapp3.1\lab_5_OOP.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\obj\Debug\netcoreapp3.1\lab_5_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\obj\Debug\netcoreapp3.1\lab_5_OOP.dll
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\obj\Debug\netcoreapp3.1\lab_5_OOP.pdb
+C:\Users\Алексей\source\repos\lab_5_OOP\lab_5_OOP\obj\Debug\netcoreapp3.1\lab_5_OOP.genruntimeconfig.cache
