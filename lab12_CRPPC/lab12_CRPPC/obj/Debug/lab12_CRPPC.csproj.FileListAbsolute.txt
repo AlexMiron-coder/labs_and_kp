@@ -1,0 +1,11 @@
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\bin\Debug\lab12_CRPPC.exe.config
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\bin\Debug\lab12_CRPPC.exe
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\bin\Debug\lab12_CRPPC.pdb
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\obj\Debug\lab12_CRPPC.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\obj\Debug\lab12_CRPPC.Form1.resources
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\obj\Debug\lab12_CRPPC.Properties.Resources.resources
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\obj\Debug\lab12_CRPPC.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\obj\Debug\lab12_CRPPC.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\obj\Debug\lab12_CRPPC.exe
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\obj\Debug\lab12_CRPPC.pdb
+C:\Users\Алексей\source\repos\lab12_CRPPC\lab12_CRPPC\obj\Debug\lab12_CRPPC.Form2.resources
