@@ -1,0 +1,11 @@
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\bin\Debug\lab13_ICRPPC.exe.config
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\bin\Debug\lab13_ICRPPC.exe
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\bin\Debug\lab13_ICRPPC.pdb
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\obj\Debug\lab13_ICRPPC.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\obj\Debug\lab13_ICRPPC.Form1.resources
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\obj\Debug\lab13_ICRPPC.Properties.Resources.resources
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\obj\Debug\lab13_ICRPPC.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\obj\Debug\lab13_ICRPPC.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\obj\Debug\lab13_ICRPPC.exe
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\obj\Debug\lab13_ICRPPC.pdb
+C:\Users\Алексей\source\repos\lab13_ICRPPC\lab13_ICRPPC\obj\Debug\lab13_ICRPPC.Form2.resources
