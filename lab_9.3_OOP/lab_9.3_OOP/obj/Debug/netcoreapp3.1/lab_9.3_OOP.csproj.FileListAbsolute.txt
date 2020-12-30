@@ -1,0 +1,13 @@
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\bin\Debug\netcoreapp3.1\lab_9.3_OOP.exe
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\bin\Debug\netcoreapp3.1\lab_9.3_OOP.deps.json
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\bin\Debug\netcoreapp3.1\lab_9.3_OOP.runtimeconfig.json
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\bin\Debug\netcoreapp3.1\lab_9.3_OOP.runtimeconfig.dev.json
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\bin\Debug\netcoreapp3.1\lab_9.3_OOP.dll
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\bin\Debug\netcoreapp3.1\lab_9.3_OOP.pdb
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\obj\Debug\netcoreapp3.1\lab_9.3_OOP.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\obj\Debug\netcoreapp3.1\lab_9.3_OOP.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\obj\Debug\netcoreapp3.1\lab_9.3_OOP.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\obj\Debug\netcoreapp3.1\lab_9.3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\obj\Debug\netcoreapp3.1\lab_9.3_OOP.dll
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\obj\Debug\netcoreapp3.1\lab_9.3_OOP.pdb
+C:\Users\Алексей\source\repos\lab_9.3_OOP\lab_9.3_OOP\obj\Debug\netcoreapp3.1\lab_9.3_OOP.genruntimeconfig.cache

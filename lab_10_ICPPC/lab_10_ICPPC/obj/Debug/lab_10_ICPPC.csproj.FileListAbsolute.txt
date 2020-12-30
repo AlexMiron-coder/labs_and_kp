@@ -1,0 +1,10 @@
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\bin\Debug\lab_10_ICPPC.exe.config
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\bin\Debug\lab_10_ICPPC.exe
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\bin\Debug\lab_10_ICPPC.pdb
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\obj\Debug\lab_10_ICPPC.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\obj\Debug\lab_10_ICPPC.Properties.Resources.resources
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\obj\Debug\lab_10_ICPPC.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\obj\Debug\lab_10_ICPPC.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\obj\Debug\lab_10_ICPPC.exe
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\obj\Debug\lab_10_ICPPC.pdb
+C:\Users\Алексей\source\repos\lab_10_ICPPC\lab_10_ICPPC\obj\Debug\lab_10_ICPPC.Form1.resources
