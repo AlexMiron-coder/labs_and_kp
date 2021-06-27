@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aleksey/MAI_study/DA/lab2/TBTree.hpp
+TItem.hpp
+/home/aleksey/MAI_study/DA/lab2/TItem.hpp
+TVector.hpp
+/home/aleksey/MAI_study/DA/lab2/TVector.hpp
+
+/home/aleksey/MAI_study/DA/lab2/TItem.hpp
+
+/home/aleksey/MAI_study/DA/lab2/TVector.hpp
+
+/home/aleksey/MAI_study/DA/lab2/main.cpp
+iostream
+-
+cstdio
+-
+TBTree.hpp
+/home/aleksey/MAI_study/DA/lab2/TBTree.hpp
+TItem.hpp
+/home/aleksey/MAI_study/DA/lab2/TItem.hpp
+
