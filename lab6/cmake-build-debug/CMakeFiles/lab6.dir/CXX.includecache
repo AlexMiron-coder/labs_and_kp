@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aleksey/MAI_study/DA/lab6/BigInt.cpp
+BigInt.hpp
+/home/aleksey/MAI_study/DA/lab6/BigInt.hpp
+
+/home/aleksey/MAI_study/DA/lab6/BigInt.hpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+iomanip
+-
+cstdlib
+-
+
